@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="tml" target="1.8" />
+      <module name="tml" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
